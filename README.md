@@ -31,6 +31,4 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/gaog-dev/gaog-dev/output/snake.svg" alt="Snake animation" />
-
-[![](https://visitcount.itsvg.in/api?id=gaog-dev&icon=5&color=12)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/gaog-dev/gaog-dev/output/snake.svg" alt="Snake animation"/>
