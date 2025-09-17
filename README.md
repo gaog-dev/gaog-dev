@@ -1,3 +1,5 @@
+---
+
 # Olá!!! eu sou Guilherme Oliveira, Desenvolvedor Fullstack!!! 👋
 
 - Atualmente Focado no Backend
@@ -6,6 +8,8 @@
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaoliveira277/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaoliveira2077@gmail.com) 
+
+---
 
 # 💻 Tech Stack:
 <div style="display: inline_block"><br>
@@ -24,10 +28,11 @@
   <img align="center" alt="gaog-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">  
 </div>
 
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gaog-dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gaog-dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaog-dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=gaog-dev&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaog-dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
