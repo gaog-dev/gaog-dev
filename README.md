@@ -1,5 +1,3 @@
----
-
 # Olá!!! eu sou Guilherme Oliveira, Desenvolvedor Fullstack!!! 👋
 
 - Atualmente Focado no Backend
