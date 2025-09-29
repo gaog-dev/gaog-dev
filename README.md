@@ -29,8 +29,12 @@
 ---
 
 # 📊 GitHub Stats:
-<br>![](https://github-readme-stats.vercel.app/api?username=gaog-dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/><br>![](https://nirzak-streak-stats.vercel.app/?user=gaog-dev&theme=tokyonight&hide_border=false)<br/><br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaog-dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaog-dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=gaog-dev&theme=tokyonight&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaog-dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
 
 ---
 
