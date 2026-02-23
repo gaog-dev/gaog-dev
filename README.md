@@ -1,58 +1,102 @@
-# Olá!!! eu sou Guilherme Oliveira, Desenvolvedor Fullstack!!! 👋
-
-Sou Desenvolvedor Backend apaixonado por construir sistemas escaláveis, eficientes e bem estruturados. Tenho experiência com Python, JavaScript, SQL e na criação de APIs RESTful, sempre aplicando boas práticas de arquitetura e código limpo.
-
-Atuo com microsserviços, integração de sistemas e automação, buscando sempre melhorar a performance e a qualidade do código.
-Sou adepto das metodologias ágeis (Scrum e Kanban) e gosto de trabalhar em equipe, compartilhando conhecimento e aprendendo continuamente.
-
-Tenho especial interesse por design de software, padrões de arquitetura (Clean, DDD, Hexagonal) e otimização de algoritmos. Meu foco é entregar soluções sólidas e sustentáveis, mantendo o equilíbrio entre desempenho e clareza de código.
-
-<br>📚 Atualmente cursando Ciências da Computação (UNIGRANDE – 2025-2029)<br>
-<br>🌍 Disponível para trabalho remoto<br>
-
-EN
-
-I’m a Backend Developer passionate about building scalable, efficient, and well-structured systems. Experienced with Python, JavaScript, and SQL, I specialize in RESTful API design, applying software architecture and clean code principles.
-
-I work with microservices, system integration, and automation, focusing on performance, reliability, and maintainable code.
-Familiar with Agile methodologies (Scrum and Kanban) and collaborative development practices such as code review, version control (Git/GitHub), and CI/CD pipelines.
-
-Deeply interested in software design, architecture patterns (Clean, DDD, Hexagonal), and algorithm optimization. My goal is to craft robust, scalable solutions that balance performance and readability.
-
-<br>🎓 Currently pursuing a Bachelor’s in Computer Science (UNIGRANDE – 2025-2029)<br>
-<br>🌐 Open to remote backend development opportunities<br>
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaoliveira277/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaoliveira2077@gmail.com) 
-
----
-
-# 💻 Tech Stack:
-<div style="display: inline_block"><br>
-  <img align="center" alt="gaog-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="gaog-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-  <img align="center" alt="gaog-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gaog-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="gaog-TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" alt="gaog-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="gaog-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="gaog-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg">
-  <img align="center" alt="gaog-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="gaog-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="gaog-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" />
-  <img align="center" alt="gaog-Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
-  <img align="center" alt="gaog-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">  
+<div align="center">
+  <img height="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
----
-
-# 📊 GitHub Stats:
+###
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaog-dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaog-dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <a href="https://www.linkedin.com/in/gaoliveira277/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="gaoliveira2077@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
----
+###
 
-<img src="https://raw.githubusercontent.com/gaog-dev/gaog-dev/output/snake.svg" alt="Snake animation"/>
+<h1 align="center">Guilherme Oliveira</h1>
+
+###
+
+<h3 align="left">Backend Developer | Node.js • Python • REST APIs • Clean Architecture</h3>
+
+###
+
+<h5 align="left">Sou desenvolvedor Backend focado na construção de APIs escaláveis, seguras e bem estruturadas, aplicando princípios de Clean Architecture, DDD e boas práticas de engenharia de software.<br><br>Atuo no desenvolvimento de sistemas com:<br><br>🔹 Node.js & TypeScript<br><br>🔹 Python<br><br>🔹 SQL (PostgreSQL / MySQL)<br><br>🔹 Microsserviços<br><br>🔹 APIs RESTful<br><br>🔹 Docker<br><br>🔹 Git & CI/CD<br><br>Tenho experiência na criação de aplicações com autenticação JWT, controle de acesso (RBAC), integração com serviços externos e organização em camadas (Controller → Use Case → Repository).<br><br>🚀 O que você encontrará aqui<br><br>APIs REST com autenticação e autorização<br><br>Projetos estruturados com Clean Architecture<br><br>Aplicações com regras de negócio bem definidas<br><br>Integração com banco de dados relacional<br><br>Documentação via Swagger/OpenAPI<br><br>Testes automatizados<br><br>Meu foco é escrever código legível, testável e escalável, sempre equilibrando performance com clareza arquitetural.<br><br>📌 Principais Interesses Técnicos<br><br>Arquitetura de Software<br><br>Design Patterns<br><br>Microsserviços<br><br>DDD (Domain-Driven Design)<br><br>Hexagonal Architecture<br><br>Otimização de Algoritmos<br><br>Boas práticas de API Design<br><br>🎓 Formação<br><br>Bacharelado em Ciência da Computação<br>UNIGRANDE (2025 – 2029)<br><br>🌍 Disponível para oportunidades remotas<br><br>Estou aberto a oportunidades como Desenvolvedor Backend ou Fullstack, onde eu possa contribuir com soluções robustas e evoluir tecnicamente em ambientes desafiadores.<br><br>EN<br><br>Backend developer focused on building scalable, secure and well-structured APIs, applying Clean Architecture, DDD and software engineering best practices.<br><br>Experienced with:<br><br>Node.js & TypeScript<br><br>Python<br><br>SQL Databases<br><br>Microservices<br><br>RESTful APIs<br><br>Docker<br><br>CI/CD pipelines<br><br>My goal is to craft maintainable, robust systems that balance performance and readability.<br><br>🎓 Bachelor’s in Computer Science (2025–2029)<br>🌐 Open to remote backend opportunities</h5>
+
+###
+
+<h3 align="center">🛠 Linguagens & Ferramentas</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=guilherme-0liveira-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilherme-0liveira-dev/guilherme-0liveira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilherme-0liveira-dev/guilherme-0liveira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guilherme-0liveira-dev/guilherme-0liveira-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
+</div>
+
+###
